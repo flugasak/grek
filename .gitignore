@@ -1,3 +1,5 @@
 .env
 devnotes.md
 discarded_code.py
+__pycache__
+
